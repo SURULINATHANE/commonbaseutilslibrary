@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CommonBaseUtilsLibrary</string>
+    <string name="open_pdf_folder_confirmation_message">Pdf downloaded, Do you want to Open download folder</string>
+    <string name="confirm">Confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="search">search</string>
+</resources>
