@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name_string">CommanBaseUtils</string>
+    <string name="app_name">CommonBaseUtils</string>
     <string name="action_settings">Settings</string>
 </resources>
